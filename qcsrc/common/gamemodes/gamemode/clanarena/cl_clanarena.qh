@@ -1,0 +1,3 @@
+#pragma once
+
+int HUD_Scores_CA(int team);
