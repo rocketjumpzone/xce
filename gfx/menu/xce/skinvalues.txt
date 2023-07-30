@@ -1,4 +1,4 @@
-title xce
+title XCE
 author Ch4mp
 
 // Image suffixes: c(licked), d(isabled), f(ocused), n(ormal), s(eektrack)
